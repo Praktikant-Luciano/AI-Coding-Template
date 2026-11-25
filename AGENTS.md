@@ -1,6 +1,7 @@
 # Instructions for AI assistants
 ## Project
-Beginner project. Read SPEC.md for what to build. Never edit SPEC.md.
+Beginner project. Read SPEC.md for what to build. 
+Never edit SPEC.md, README.md, AGENTS.md, PROMPTS.md
 ## Technology
 - Plain HTML, CSS and JavaScript only. 
 - No frameworks, libraries, npm or build tools.
