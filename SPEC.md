@@ -1,12 +1,14 @@
 # Spec: pdokhub - studentisches Projekt - 
 ## Goal (one or two sentences)
-A single-page website, intended as hub for features related to nursing documentation. Future features will add additional content
+A basic local .html with not yet defined jumps to other services, intended as hub for features related to nursing documentation. Future features will add additional content. In this branch i want to create the main-page of the hub.
 ## Users
 Just me, on a laptop browser.
 ## Features (numbered, so prompts can refer to them)
-F0. create .html skeleton in index.html and the style.css file, using the corporate design information i provided
-F1. 1st feature: create the main page with title "Pflegeprozessdokumentation pdokhub" with a navigation bar - use placeholders in the navbar for now
-F2. tba
+F0. create .html skeleton in index.html and the style.css file, using the corporate design information i provided as comment in  style.css
+F1. 1st feature: create the main page with title "Pflegeprozessdokumentation pdokhub" 
+- a modern, minimalistic landing-page layout with horizontal icon-label-navigation (primary navigation) 
+- and a placeholder for a centric hero section with quick-access-navigation from pill-shaped outline buttons
+F2. create the centric hero section
 F3. tba
 F4. tba
 ## Acceptance criteria (how I know a feature works)
