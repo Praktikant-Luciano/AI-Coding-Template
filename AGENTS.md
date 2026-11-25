@@ -13,6 +13,7 @@ Never edit SPEC.md, README.md, AGENTS.md, PROMPTS.md
 - No clever one-liners, no advanced patterns (classes, modules, async chains) unless I explicitly ask.
 ## How to work
 - Only implement what the current prompt asks for. DO NOT add extra features, even if they seem useful. Suggest them instead.
+- describe your intentions to me in natural language before you implement: how will you implement the feature
 - Only change the files and functions needed for this step.
 - If something is unclear, ask a question before writing code.
 - After making changes, explain briefly what you changed and why and tell me how to test it in the browser.
