@@ -6,7 +6,7 @@ Just me, on a laptop browser.
 ## Features (numbered, so prompts can refer to them)
 F0. create .html skeleton in index.html and the style.css file. Use the corporate design information i provided as comment in  style.css
 F1. create the main page with title "Pflegeprozessdokumentation pdokhub" 
-F2. create the centric hero section with the icons i provide
+F2. create the centric hero section with the quick-access icons. I provide the .png for the icons in the co-pilot chat. Use them for 5 placeholders
 F3. tba
 F4. tba
 ## Acceptance criteria (how I know a feature works)

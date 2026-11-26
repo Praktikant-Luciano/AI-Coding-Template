@@ -8,3 +8,4 @@
 - ich verabscheue Schatten hinter Buchstaben und Boxen
 - platzhalter in html <a href="#">Platzhalter 1</a>
 - ich vergesse fast immer einen neuen Chat zu erstellen zwischen den Features /o\
+#
