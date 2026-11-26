@@ -7,9 +7,11 @@ Just me, on a laptop browser.
 F0. create .html skeleton in index.html and the style.css file. Use the corporate design information i provided as comment in  style.css
 F1. create the main page with title "Pflegeprozessdokumentation pdokhub" 
 F2. create the centric hero section with the quick-access icons. I provide the .png for the icons in the co-pilot chat. Use them for 5 placeholders
-F3. tba
-F4. tba
-## Acceptance criteria (how I know a feature works)
+F3. Bottom Info-Box in salk-gruen, font-color textgrau
+F4. rename Placeholder 5 in hero-section to Aushebung pdok, rename placeholder 4 in primary navbar to pdok-quizlord
+F5. tba
+F6. tba
+## 5cceptance criteria (how I know a feature works)
 F0. no specfic rerquirements
 F1. primary navbar is consistent in layout and 
 ## Out of scope (do NOT build)

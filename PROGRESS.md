@@ -2,12 +2,17 @@
 # Progress
 completed, committed and pushed:
 basic setup
-F0 and F1 
+F0 and F1 primary navbar
+F2 hero section
+
 ## Done
 - [x] F0: HTML skeleton and basic CSS settings
 - [x] F1: Primary Navigation Bar created to my satisfaction w/ placeholders
+- [x] F2: Hero Section w/ quick-access icons and placeholders
+- [x] F3: Bottom Info-Box with 2 placeholders
 ## Next
-- [ ] F2: Hero Section w/ quick-access icons and placeholders
+- [ ] F4: 
+
 ## Decisions & notes
 Design decisions for the structure, icons, general information etc. will be made w/ ChatGPT Plus
 ## Known problems
